@@ -1,4 +1,5 @@
 # Task Tracker - MERN Stack Application
+A simple app to manage daily tasks.
 
 
 ## 🚀 Features
