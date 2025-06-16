@@ -119,3 +119,6 @@ task-tracker/
 4. **Edit Task**: Click "Edit" button on any task card
 5. **Delete Task**: Click "Delete" button (with confirmation)
 6. **Quick Status Change**: Use the status buttons at the bottom of each task
+
+![image](https://github.com/user-attachments/assets/57e074d4-1de8-49b2-8e47-4a248751e06e)
+
